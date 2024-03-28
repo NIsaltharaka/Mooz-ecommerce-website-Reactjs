@@ -1,71 +1,11 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![mooz01](https://github.com/NIsaltharaka/Mooz-ecommerce-website-Reactjs/assets/134293075/d3cc979d-444b-46e9-b143-73717894afc8)
+![mooz02](https://github.com/NIsaltharaka/Mooz-ecommerce-website-Reactjs/assets/134293075/cdffd70d-b414-4ee2-9a9b-55e0e30aa4a5)
+![mooz03](https://github.com/NIsaltharaka/Mooz-ecommerce-website-Reactjs/assets/134293075/59c24b23-8bd8-4d72-afc3-ea1c3eb5cd69)
+![mooz04](https://github.com/NIsaltharaka/Mooz-ecommerce-website-Reactjs/assets/134293075/4fd012eb-8c81-412e-9b8d-123bd268bead)
+![mooz06](https://github.com/NIsaltharaka/Mooz-ecommerce-website-Reactjs/assets/134293075/2106db27-f179-47bd-9839-8d0f385e8d2e)
+![mooz07](https://github.com/NIsaltharaka/Mooz-ecommerce-website-Reactjs/assets/134293075/b81ec6ae-485e-4b3f-b34c-280c83c98fb8)
+![mooz08](https://github.com/NIsaltharaka/Mooz-ecommerce-website-Reactjs/assets/134293075/d0fb6a3b-6e80-4189-97c5-678377a1b860)
+![mooz05](https://github.com/NIsaltharaka/Mooz-ecommerce-website-Reactjs/assets/134293075/d140ace4-f4e2-45a6-85b0-f4babc666907)
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# Mooz-ecommerce-website-Reactjs" 
+The project entails creating a compelling ecommerce website for Mooz, a fashion retailer, emphasizing user-friendly navigation, a diverse product range, and personalized shopping experiences. Key features include intuitive browsing, secure checkout, personalized recommendations, and dedicated customer service. The goal is to provide customers with a seamless online shopping experience, reflecting Mooz's commitment to style, quality, and convenience. As of now, the project is not completed.
